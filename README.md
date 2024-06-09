@@ -44,17 +44,20 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <ul>
     <li>From the <b>End User's</b> side (Karen Karen), they create a ticket through osTicket's <a href = "http://localhost/osTicket/ ">local host site</a> and fill their information, select a Help Topic</li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/96bb4609-e295-4fd2-aa54-a32edb81c2d5" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/RogericHarper44/ticket-lifecycle/assets/168601987/41c324db-25a8-4d23-9652-d28fbbbd09fb"
+/></li>
     </ul>
     <li>The End User then writes ticket through the <b>Issue Summary</b> and adds a subject and details of the ticket much similar to writing an email</li>
     <ul>
       <li>In this example, Karen creates the ticket under the Help Topic of a Business Critcal Outage (made from our configuration of osTicket) explaining the mobile banking application is suffering a 404 error</li>
-      <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/b8642323-ce9f-4f42-9b44-960304f81486" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/RogericHarper44/ticket-lifecycle/assets/168601987/b2c1cfbc-a021-4878-9402-cb4f450b453a"
+/></li>
     </ul>
     <li>Karen then creates the ticket and is sent to <b>Agent</b> Jane Doe (which we've set as Supreme Admin is able to see all incoming tickets in the configuration tutorial) who views it from the <a href = "http://localhost/osTicket/scp/login.php">local help desk login</a></li>
     <ul>
       <li><b>Note</b>: Priorities have not been set for other incoming tickets such as ticket #951342 where end user Ken is requesting an upgrade to Adobe Reader. SLA plans need to be set for these tickets hence why they are all under the priority state of "Normal"</li>
-      <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/01887ba4-d7c5-4c9b-8890-9ffc02f350a4" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/RogericHarper44/ticket-lifecycle/assets/168601987/bddc6ed1-0914-476e-8c1b-668863166060"
+/></li>
     </ul>
   </ul>
 </p>
