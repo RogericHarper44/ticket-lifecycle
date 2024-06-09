@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">osTicket - Ticket Lifecycle Examples</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. This tutorial assumes you have completed both the <a href= ""> installation </a> and <a href = "">configuration</a> of osTicket
+This project outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. This tutorial assumes you have completed both the <a href= ""> installation </a> and <a href = "">configuration</a> of osTicket
 
 </br>
 
@@ -117,7 +117,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     </ul>
     <li>Closed tickets can be found under the Closed section in our Tickets tab, where information and status of the tickets are archived. It is good practice for Agents to study Closed tickets to improve their experience in working with them</li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/2e3b4963-5ca7-4d82-a004-17d2c166c8a0" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/RogericHarper44/ticket-lifecycle/assets/168601987/ea29d172-0c28-49c7-bc69-ce3d48479036"
+/></li>
     </ul>
   </ul>
 </p>
