@@ -94,11 +94,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     </ul>
     <li>The Ticket Thread is updated when we make the changes to ticket</li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/d69cf505-0e4d-4616-9718-8cdc823ea154" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/RogericHarper44/ticket-lifecycle/assets/168601987/0412640f-7f3c-426f-b4a3-4aa934b4f135"
+/></li>
     </ul>
     <li>The Agent can message the End User through the Ticket Thread to update the User on the ticket as well as set the status of the ticket (which is left as <b>Open</b> since we need to work it out)</li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/becb0089-d4b7-411f-bba0-d5e5fefd649b" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/RogericHarper44/ticket-lifecycle/assets/168601987/4ea0a452-cfd1-45d6-be62-646f7253db3d"
+/></li>
     </ul>
   </ul>
 </p>
