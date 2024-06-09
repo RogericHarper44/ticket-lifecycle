@@ -79,15 +79,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     </ul>
     <li>By going to the greyed out link --Unassigned-- next to <b>Assigned to</b>, you can assign the ticket to a Team or Agents. Note if we were to assign it to an Agent outside of Agent Jane's Department, it will not appear in their feed.</li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/7705f431-b2b8-4a70-b357-cb9099276909" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/RogericHarper44/ticket-lifecycle/assets/168601987/62e79aa6-4012-4b8b-873a-6b014a673130"
+/></li>
     </ul>
     <li>By going to the link next to <b>SLA Plan</b> to set the SLA Plan from Default SLA to one our SLA Plans we have created in configuration. For this Business Critical Outage ticket, it'll be set to SEV-A</li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/b088102b-45e2-4303-b557-12df0c70eb48" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/RogericHarper44/ticket-lifecycle/assets/168601987/0890d5c3-1d9e-43a8-9398-db5f4be136fd"
+/></li>
     </ul>
     <li>By going to the link next to <b>Department</b> to set the Department. For this Business Critical Outage ticket, it'll be set from Support to System Administrators</li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/9fe7f262-9961-4ab9-b95c-c1a0c13be6a5" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/RogericHarper44/ticket-lifecycle/assets/168601987/aee0b44d-95de-48ac-b130-39628af76785"
+/></li>
     </ul>
     <li>The Ticket Thread is updated when we make the changes to ticket</li>
     <ul>
