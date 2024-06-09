@@ -69,11 +69,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     <li>The Business Critical Outage ticket by Karen numbered 282733 is assigned to the Agent Jane Doe. From Jane's perspective, this is how the ticket first looks.</li>
     <ul>
       <li>The Agent is able to message the End User through the <b>Ticket Thread</b> located in the bottom of the ticket page</li>
-      <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/dad0149d-9a9a-427a-88e7-73a91ee3bcd3" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/RogericHarper44/ticket-lifecycle/assets/168601987/a578f04a-dc76-4850-8689-39c0b91068e9"
+/></li>
     </ul>
     <li>By going to the link next to <b>Priority</b>, you are able to set the priority of the ticket to Low, Normal, High, or Emergency</li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/aceb0b2b-6d14-486c-951b-5510c01288d3" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/RogericHarper44/ticket-lifecycle/assets/168601987/62ff2008-b2f3-429e-ab4b-d5f995fa0d72"
+/></li>
     </ul>
     <li>By going to the greyed out link --Unassigned-- next to <b>Assigned to</b>, you can assign the ticket to a Team or Agents. Note if we were to assign it to an Agent outside of Agent Jane's Department, it will not appear in their feed.</li>
     <ul>
